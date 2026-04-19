@@ -12,8 +12,13 @@ public class T3CatDogCounter {
             if (str.charAt(i) == 'd' && str.charAt(i + 1) == 'o' && str.charAt(i + 2) == 'g'){
                 dogCount++;
             }
+        }
 
+        if (catCount == dogCount){
+            System.out.println("True");
 
+        }else {
+            System.out.println("False");
         }
 
 
