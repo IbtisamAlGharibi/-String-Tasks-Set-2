@@ -6,6 +6,7 @@ public class T21WordEnds {
         String before = str.substring(0,word);
         String after = str.substring(word+2 , str.length()-1);
 
+        System.out.println(before + " "+ after);
 
     }
 }
