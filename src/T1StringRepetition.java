@@ -4,8 +4,7 @@ public class T1StringRepetition {
         String str ="Ibtisam";
 
         for (int i = 0; i < str.length(); i++){
-
-
+            System.out.println(str.charAt(i) + str.charAt(i) );
         }
 
 
