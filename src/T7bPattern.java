@@ -10,6 +10,8 @@ public class T7bPattern {
             }else {
                 System.out.println("False");
             }
+
+
         }
     }
 }
