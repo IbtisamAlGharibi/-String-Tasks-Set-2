@@ -9,5 +9,7 @@ public class T11FrontRepetition {
         for (int i =0; i<n ; i++){
             System.out.println(front);
         }
+
+
     }
 }
