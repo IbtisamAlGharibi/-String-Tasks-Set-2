@@ -11,5 +11,12 @@ public class T13PrefixAgain {
         }
         System.out.println(count);
 
+        if (count == n){
+            System.out.println("True" );
+
+        }else {
+            System.out.println("False");
+        }
+
     }
 }
