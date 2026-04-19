@@ -6,6 +6,7 @@ public class T18ZipZap {
         for (int i =0; i<str.length()-1;i++){
 
 
+
         }
 
     }
