@@ -11,5 +11,8 @@ public class T16StarChar {
         }else {
             System.out.println("False");
         }
+
+
+
     }
 }
