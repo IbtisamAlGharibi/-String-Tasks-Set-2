@@ -4,10 +4,11 @@ public class T19StarOut {
     public static void main(String[] args) {
 
         String str = "ab*cd";
-        int star = str.indexOf("*");
+        String result = " ";
 
-        for (int i =0; i<str.length()-1;i++){
+
+        for (int i = 0; i < str.length() - 1; i++) {
+
 
         }
-    }
-}
+    }}
