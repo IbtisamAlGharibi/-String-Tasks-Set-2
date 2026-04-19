@@ -10,6 +10,8 @@ public class T6XYZCode {
             System.out.println("True");
         }
 
+
+
         }
 
     }
