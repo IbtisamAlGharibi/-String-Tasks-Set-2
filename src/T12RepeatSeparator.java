@@ -5,6 +5,10 @@ public class T12RepeatSeparator {
 
         int n =3;
 
+        String mix = str + str2;
 
+        for (int i=0; i < n ; i++){
+            System.out.println(mix);
+        }
     }
 }
