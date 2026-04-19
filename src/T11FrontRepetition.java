@@ -4,8 +4,10 @@ public class T11FrontRepetition {
         String str = "Chocolate";
         int n = 4;
 
-        String front = str.substring(str.charAt(0),str.charAt(n));
+        String front = str.substring(0,n);
 
-
+        for (int i =0; i<n ; i++){
+            System.out.println(front);
+        }
     }
 }
