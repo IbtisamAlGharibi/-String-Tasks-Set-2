@@ -10,5 +10,7 @@ public class T4CodeCounter {
             }
         }
         System.out.println(count);
+
+
     }
 }
