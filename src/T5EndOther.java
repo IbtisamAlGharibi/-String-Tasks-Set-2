@@ -3,5 +3,11 @@ public class T5EndOther {
         String str = "Hiabc";
         String str2 =  "abc";
 
+        if (str.endsWith(str2)){
+            System.out.println("True");
+        }else {
+            System.out.println("False");
+        }
+
     }
 }
