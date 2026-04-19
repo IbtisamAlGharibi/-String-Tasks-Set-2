@@ -5,8 +5,7 @@ public class T15Sandwich {
         int last = str.lastIndexOf("bread");
 
         String middle =str.substring(first +5,last);
-
-
+        System.out.println(middle);
 
     }
 }
