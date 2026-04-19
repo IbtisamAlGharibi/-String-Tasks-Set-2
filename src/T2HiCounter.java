@@ -9,6 +9,7 @@ public class T2HiCounter {
                 count = + 1;
             }
         }
+
             System.out.println(count);
     }
 }
