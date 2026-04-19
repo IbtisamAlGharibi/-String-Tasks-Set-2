@@ -5,7 +5,10 @@ public class T18ZipZap {
 
         for (int i =0; i<str.length()-1;i++){
 
-
+            if (str.charAt(i)=='z' && str.charAt(i+2) == 'p'){
+                result = "zp";
+                System.out.println(result + str.charAt(i));
+            }
 
         }
 
