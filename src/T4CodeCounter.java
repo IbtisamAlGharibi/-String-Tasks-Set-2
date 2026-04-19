@@ -9,8 +9,6 @@ public class T4CodeCounter {
                 count++;
             }
         }
-
-
-
+        System.out.println(count);
     }
 }
