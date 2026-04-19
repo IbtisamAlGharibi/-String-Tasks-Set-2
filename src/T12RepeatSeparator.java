@@ -9,6 +9,8 @@ public class T12RepeatSeparator {
 
         for (int i=0; i < n ; i++){
             System.out.println(mix);
+
+
         }
     }
 }
