@@ -10,6 +10,8 @@ public class T18ZipZap {
                 System.out.println(result + str.charAt(i));
             }
 
+
+
         }
 
     }
