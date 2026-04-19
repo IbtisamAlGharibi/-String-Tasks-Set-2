@@ -7,5 +7,7 @@ public class T15Sandwich {
         String middle =str.substring(first +5,last);
         System.out.println(middle);
 
+
+
     }
 }
