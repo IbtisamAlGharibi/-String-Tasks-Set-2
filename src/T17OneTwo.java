@@ -6,5 +6,7 @@ public class T17OneTwo {
 
         String result = last +" "+ str.charAt(1)+" " + first;
         System.out.println(result);
+
+
     }
 }
